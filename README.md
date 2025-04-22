@@ -1,4 +1,4 @@
-﻿# HomeWorkSQLTextAndWindowFunc
+﻿# HomeWorkTransaction
  Домашнее задание по теме "Транзакции и уровни изоляции" (ProductStar)
 
 # Постановка задачи
