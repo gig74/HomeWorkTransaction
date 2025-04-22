@@ -41,7 +41,7 @@
 - sql/insert_init_accounts.sql - очистка данных, сброс счётчиков автоинкремента и добавление двух тестовых акаунтов
 - sql/transaction1.sql - скрипт первой транзакции из задания
 - sql/transaction2.sql - скрипт второй транзакции из задания
-- src/sql/create_table_texts.sql - Скрипт создания таблицы
-- src/sql/insert_into_texts.sql - Скрипт заполнения таблицы тестовыми данными
-- src/sql/selects_diff_isol_level.sql - Скрипт для отработки запросов при разных уровнях изоляции
+- sql/create_table_texts.sql - Скрипт создания таблицы
+- sql/insert_into_texts.sql - Скрипт заполнения таблицы тестовыми данными
+- sql/selects_diff_isol_level.sql - Скрипт для отработки запросов при разных уровнях изоляции
 
